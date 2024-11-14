@@ -1,5 +1,3 @@
-# Walmart-Sales-Data-Analysis
-Walmart Sales Data Analysis - Market Basket Analysis
 # Walmart Sales Data Analysis - Market Basket Analysis
 
 ![Project Overview](assets/Ekran%20şəkli%202024-11-14%20155324.png)
