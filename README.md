@@ -1,6 +1,6 @@
 # Walmart Sales Data Analysis - Market Basket Analysis
 
-![Project Overview](assets/Ekran%20şəkli%202024-11-14%20155324.png)
+![Project Overview](assets/Projectpic.png)
 
 
 In this project, we analyze Walmart sales data with a focus on **Market Basket Analysis**. The objective is to identify product associations, popular product combinations, and sales patterns based on the time and day of the week. The analysis includes the following three main components:
